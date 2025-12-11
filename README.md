@@ -9,8 +9,8 @@ Phone: (385)492-9704 | Email: giovanniagut@gmail.com | LinkedIn: https://www.lin
 
 ### Master of Science in Electrical Engineering - University of Utah
 
-Graduated: December 2025
-Location: Salt Lake City, UT
+Graduated: December 2025<br>
+Location: Salt Lake City, UT<br>
 GPA: 3.73
 
 **Activities/Achievements**
@@ -27,9 +27,9 @@ GPA: 3.73
 
 ### Bachelor of Science in Physics Teaching - Weber State University
 
-Graduated: December 2022
-Location: Ogden, UT
-Minors: Neuroscience, Mathematics
+Graduated: December 2022<br>
+Location: Ogden, UT<br>
+Minors: Neuroscience, Mathematics<br>
 GPA: 3.96
 
 **Activities/Achievements**
@@ -42,13 +42,13 @@ GPA: 3.96
 
 * Programmed microcontrollers in C to read sensor data and display real-time measurements on a digital screen, linking physical instrumentation with embedded systems.
 
-[Transcript From Undegraduate Institution]{BStranscript.pdf}
+[Transcript From Undegraduate Institution](BStranscript.pdf)
 
 ---
 
 ### Relevant Coursework:
 
-<u>**Graduate**</u>
+**<u>Graduate</u>**
 
 **Digital Signal Processing:**
 
@@ -58,7 +58,8 @@ Computational Electromagnetics
 
 Microwave Engineering
 
-<u>**Undergraduate**</u>
+**<u>Undergraduate</u>**
+
 
 
 
