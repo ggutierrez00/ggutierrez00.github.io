@@ -1,6 +1,9 @@
 # My e-Portfolio
 
-![Portfolio portrait](sitting.jpeg)
+<p align="center">
+  <img src="sitting.jpeg" alt="Portfolio portrait" width="280">
+</p>
+
 
 ## Contact Information
 Phone: (385)492-9704 | Email: giovanniagut@gmail.com | LinkedIn: https://www.linkedin.com/in/giovanni-gutierrez-6b58ba30b/
