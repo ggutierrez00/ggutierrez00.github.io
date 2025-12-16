@@ -1,16 +1,22 @@
-# My e-Portfolio
 
 <p align="center">
   <img src="sitting.jpeg" alt="Portfolio portrait" width="280">
 </p>
 
 
-## Contact Information
-Phone: (385)492-9704 | Email: giovanniagut@gmail.com | LinkedIn: https://www.linkedin.com/in/giovanni-gutierrez-6b58ba30b/
-
-## Education
+# Contact Information
+Phone: (385)492-9704 | Email: giovanniagut@gmail.com | LinkedIn:[My Profile](https://www.linkedin.com/in/giovanni-gutierrez-6b58ba30b/)
+ 
 
 ---
+
+# Purpose
+I've written this e-portfolio to showcase my academic background, technical skills, and projects I've worked on in perperation for engineering roles. This living document thus acts as a reference point reflecting my current software, hardware, and conceptual level of expertise.
+
+---
+
+# Education
+
 
 ### Master of Science in Electrical Engineering - University of Utah
 
@@ -47,27 +53,27 @@ GPA: 3.96
 
 * Programmed microcontrollers in C to read sensor data and display real-time measurements on a digital screen, linking physical instrumentation with embedded systems.
 
-[Transcript From Undegraduate Institution](BStranscript.pdf)
+[Transcript From Undergraduate Institution](BStranscript.pdf)
 
 ---
 
-### Relevant Coursework:
+## Project Highlights
 
-**<u>Graduate</u>**
+[Bandpass Filter Design and Application](DSP-project/) (DSP using MATLAB)
 
-**Digital Signal Processing:**
+[Patch Antenna Design, Simulation, and Post-Fabrication Measurement](Antennas-project)
 
-Solid-State Electronics / Nanoelectronics
+[Implementation of Various Electromagnetic Computational Techniques](EM-comp-project/) (MATLAB)
 
-Computational Electromagnetics
+[DSP integration for RV32E MCU using tsmc18 (signed NDA) technology libraries](VLSI-project/) (ModelSim/Questa, Virtuoso/Calibre, Genus)
 
-Microwave Engineering
+[Carbon Evaporation System from Undergraduate Research](Undergraduate-research)
 
-**<u>Undergraduate</u>**
+---
+
+## Relevant Coursework
+*<u>Graduate</u>*
 
 
 
 
-
-
-Notes: Focus on energy-related applications, signal processing, and semiconductor device behavior.
