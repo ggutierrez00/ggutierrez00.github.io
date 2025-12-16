@@ -11,7 +11,7 @@ Phone: (385)492-9704 | Email: giovanniagut@gmail.com | LinkedIn:[My Profile](htt
 ---
 
 # Purpose
-I've written this e-portfolio to showcase my academic background, technical skills, and projects I've worked on in perperation for engineering roles. This living document thus acts as a reference point reflecting my current software, hardware, and conceptual level of expertise.
+I've written this e-portfolio to showcase my academic background, technical skills, and projects I've worked on in preperation for engineering roles. This living document thus acts as a reference point reflecting my current software, hardware, and conceptual level of expertise.
 
 ---
 
@@ -61,7 +61,7 @@ GPA: 3.96
 
 [Bandpass Filter Design and Application](DSP-project/) (DSP using MATLAB)
 
-[Patch Antenna Design, Simulation, and Post-Fabrication Measurement](Antennas-project)
+[Patch Antenna Design, Simulation, and Post-Fabrication Measurement](Antennas-project) (CST)
 
 [Implementation of Various Electromagnetic Computational Techniques](EM-comp-project/) (MATLAB)
 
@@ -72,7 +72,29 @@ GPA: 3.96
 ---
 
 ## Relevant Coursework
-*<u>Graduate</u>*
+**<u>Graduate</u>**
+* [Microwave Engineering](McWV/)
+
+* [Antenna Theory and Design](Antenna/)
+
+* [Digital Signal Processing](Dig-sig-proc/)
+
+* [Physics of Nanoelectronic Devices](Nano-Electr/)
+
+* Computational Electromagnetics (Refer to EM computational techniques projects)
+
+* CMOS Digital VLSI Design:
+  - DSP integration project was main component (Refer to Projects)
+  - Tabulated logical effort of cascaded CMOS logic gates
+  - Troubleshooting involed performing standard timing, area, and power optimizations
+  - Simulated industry workflow using standard CADE tools and hard tape-out date
+ 
+**<u>Undergraduate</u>** 
+* [Electronics for Scientists](Electronics/)
+
+* [Electromagnetic Theory](EandM/)
+
+* [Advanced Physics Lab](Advanced_Lab/)
 
 
 
