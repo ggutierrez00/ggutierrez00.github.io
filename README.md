@@ -117,10 +117,10 @@ Based on these findings, I developed a revised standard operating procedure (SOP
  
 **<u>Undergraduate</u>** 
 * Electronics for Scientists:
-  - Analyzed DC and AC circuits using nodal and mesh methods  
+  - Analyzed DC and AC circuits using function generators and oscilloscopes  
   - Performed frequency response analysis and generated Bode plots  
-  - Worked with BJTs and MOSFETs in amplifier and switching configurations  
-  - Built and debugged power and signal-conditioning circuits  
+  - Designed and tested breadboard AM and FM radios using transistors
+  - Performed various calculations using operational amplifiers  
   - Programmed microcontrollers in C to interface with sensors  
   - Interpreted time-domain and frequency-domain circuit behavior 
   
