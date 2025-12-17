@@ -22,7 +22,7 @@ I've written this e-portfolio to showcase my academic background, technical skil
 
 Graduated: December 2025<br>
 Location: Salt Lake City, UT<br>
-GPA: 3.73
+GPA: 3.91
 
 **Activities/Achievements**
 
