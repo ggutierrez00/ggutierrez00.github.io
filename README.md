@@ -59,13 +59,21 @@ GPA: 3.96
 
 ## Project Highlights
 
-[Bandpass Filter Design and Application](DSP-project/) (DSP using MATLAB)
+* [Bandpass Filter Design and Application](DSP-project/) (DSP using MATLAB)
 
-[Patch Antenna Design, Simulation, and Post-Fabrication Measurement](Antennas-project) (CST)
+* [Patch Antenna Design, Simulation, and Post-Fabrication Measurement](Antennas-project) (CST)
 
-[Implementation of Various Electromagnetic Computational Techniques](EM-comp-project/) (MATLAB)
+* [Implementation of Various Electromagnetic Computational Techniques](EM-comp-project/) (MATLAB)
 
-[DSP integration for RV32E MCU using tsmc18 (signed NDA) technology libraries](VLSI-project/) (ModelSim/Questa, Virtuoso/Calibre, Genus)
+* [DSP integration for RV32E MCU using tsmc18 (signed NDA) technology libraries](VLSI-project/) (ModelSim/Questa, Virtuoso/Calibre, Genus)
+
+* Modular Hydro-Pumped Storage (HPS) Project:
+  - Developed system-level models under physical and operational constraints  
+  - Evaluated sensing, control, and data interpretation requirements  
+  - Performed tradeoff analysis across efficiency, scalability, and feasibility  
+  - Collaborated in a multidisciplinary team with defined technical roles  
+  - Conducted stakeholder interviews to gather design requirements and constraints  
+  - Translated stakeholder input into technical assumptions and system specifications   
 
 ---
 
@@ -87,7 +95,11 @@ Based on these findings, I developed a revised standard operating procedure (SOP
 
 * [Digital Signal Processing](Dig-sig-proc/)
 
-* [Physics of Nanoelectronic Devices](Nano-Electr/)
+* Nanoelectronics:
+  - Studied MOSFET operation and carrier transport mechanisms  
+  - Analyzed short-channel effects and device scaling limitations  
+  - Connected semiconductor physics to circuit-level behavior  
+  - Interpreted device models used in modern IC design  
 
 * Computational Electromagnetics (Refer to EM computational techniques projects)
 
@@ -96,13 +108,35 @@ Based on these findings, I developed a revised standard operating procedure (SOP
   - Tabulated logical effort of cascaded CMOS logic gates
   - Troubleshooting involed performing standard timing, area, and power optimizations
   - Simulated industry workflow using standard CADE tools and hard tape-out date
+
+* Computational Neuroscience
+  - Modeled dynamical systems using numerical simulation techniques  
+  - Analyzed time-series data and noise-driven behavior  
+  - Implemented computational models with stability considerations  
+  - Applied signal-processing concepts to biological data  
  
 **<u>Undergraduate</u>** 
-* [Electronics for Scientists](Electronics/)
+* Electronics for Scientists:
+  - Analyzed DC and AC circuits using nodal and mesh methods  
+  - Performed frequency response analysis and generated Bode plots  
+  - Worked with BJTs and MOSFETs in amplifier and switching configurations  
+  - Built and debugged power and signal-conditioning circuits  
+  - Programmed microcontrollers in C to interface with sensors  
+  - Interpreted time-domain and frequency-domain circuit behavior 
+  
+* Electromagnetic Theory (Electrostatics):
+  - Derived electric fields and potentials from Maxwell’s equations  
+  - Solved boundary-value problems involving conductors and dielectrics  
+  - Applied energy methods to electrostatic systems  
+  - Analyzed field behavior using symmetry and physical constraints  
+  - Built intuition for field-based reasoning relevant to RF systems 
 
-* [Electromagnetic Theory](EandM/)
-
-* [Advanced Physics Lab](Advanced_Lab/)
+* Advanced Physics Laboratory:
+  - Designed and executed multi-week experimental projects  
+  - Acquired and analyzed data with uncertainty quantification  
+  - Troubleshot experimental setups and measurement errors  
+  - Compared experimental results to theoretical models  
+  - Produced formal technical reports documenting methods and results 
 
 
 
