@@ -10,7 +10,7 @@ MATLAB and analytical EM theory were used extensively to visualize fields, radia
 ---
 
 ## Radiated Fields from Current Elements
-A central theme of the coursework was understanding how radiation arises from time-varying currents. Using analytical expressions for the electric field produced by small current elements, I derived and visualized the spatial structure of the radiated field in three dimensions.
+Using small current elements I was able to simulate the electrical field behavior of transmission lines and antennas. This was achived by using analytical expressions for the electric field produced by small current elements. Last, MATLAB was used to visualized the spatial structure of the radiated field in three dimensions. 
 
 These simulations highlight the distinction between radiating and non-radiating configurations, showing how current orientation and geometry directly affect field strength and spatial distribution.
 
@@ -18,22 +18,21 @@ These simulations highlight the distinction between radiating and non-radiating 
   <img src="fig_current_elements_field.png" alt="Radiated field from current elements" width="420">
 </p>
 
-**Figure:** Electric field magnitude produced by current elements, illustrating how current orientation influences radiation versus guided-wave behavior.  
-(From HW 1 — analytical field derivation and numerical visualization :contentReference[oaicite:0]{index=0})
+**Figure:** Electric field magnitude produced by two current elements equidistant from eachother with opposing polarity. This is representative of transmission line field characteristics.
 
 ---
 
 ## Near-Field Energy Storage and Reactive Power
 Beyond radiation, antennas store energy in their near fields. To investigate this behavior, I analyzed the complex Poynting vector and evaluated power flow through closed integration surfaces surrounding radiating structures.
 
-This analysis demonstrates that, in the near field, power flow can be purely reactive, corresponding to energy storage rather than radiation. This distinction is critical for understanding antenna efficiency, bandwidth limitations, and electrically small antennas.
+This analysis demonstrates that, in the near field, power flow can be purely reactive, corresponding to energy storage rather than radiation. This distinction is critical for understanding antenna efficiency, bandwidth limitations, and electrically small antennas (particularly in CMOS integrations).
 
 <p align="center">
   <img src="fig_reactive_power_surface.png" alt="Reactive power flow surface" width="420">
 </p>
 
-**Figure:** Closed integration surface used to evaluate complex power flow, illustrating reactive energy storage in the near field of a radiating structure.  
-(From HW 2 — reactive power and near-field analysis :contentReference[oaicite:1]{index=1})
+**Figure:** Closed integration surface used to evaluate complex power flow of a particular geometry. This exercise demonstrated reactive energy storage in the near field of a radiating structure.  
+
 
 ---
 
@@ -47,7 +46,7 @@ These results demonstrate the fundamental principles behind beam steering and ar
 </p>
 
 **Figure:** Normalized array factor for a two-element antenna array, demonstrating beam steering as a function of relative phase shift.  
-(From HW 4 — array factor synthesis and visualization :contentReference[oaicite:2]{index=2})
+
 
 ---
 
@@ -61,7 +60,6 @@ This work connects electromagnetic theory to practical RF system design, emphasi
 </p>
 
 **Figure:** Received power and signal-to-noise ratio versus frequency, illustrating the impact of antenna characteristics and noise on system performance.  
-(From HW 4 — power and SNR analysis :contentReference[oaicite:3]{index=3})
 
 ---
 
@@ -75,7 +73,6 @@ This analysis reinforces the sensitivity of array performance to design paramete
 </p>
 
 **Figure:** Beam separation analysis for array configurations, illustrating how phase and spacing influence angular resolution.  
-(From HW 6 — numerical optimization and visualization :contentReference[oaicite:4]{index=4})
 
 ---
 
@@ -86,3 +83,4 @@ This analysis reinforces the sensitivity of array performance to design paramete
 - Understanding of near-field vs far-field behavior and reactive power
 - Antenna array synthesis, beam steering, and performance tradeoffs
 - System-level thinking linking antennas to noise and communication performance
+
