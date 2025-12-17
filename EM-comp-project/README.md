@@ -12,12 +12,6 @@ FDFD was used to solve electrostatic and quasi-static field problems by discreti
 
 To improve solver efficiency, successive over-relaxation (SOR) was implemented and analyzed. The method was extended to handle dielectric interfaces and applied to RF-relevant structures such as microstrip transmission lines, where electrostatic solutions connect directly to characteristic impedance.
 
-<p align="center">
-  <img src="fig_fdfd_potential.png" alt="FDFD electrostatic potential distribution" width="420">
-</p>
-
-**Figure:** FDFD solution of an electrostatic potential distribution on a 2D grid, illustrating boundary-condition enforcement and field behavior.
-
 ---
 
 ## Finite-Difference Time-Domain (FDTD)
@@ -51,16 +45,10 @@ Beyond visualization, steady-state time-domain data was post-processed to extrac
 Field-based computation of the reflection coefficient was compared against the expected impedance-based value, showing close agreement and validating the numerical approach.
 
 <p align="center">
-  <img src="fig_ttof_time_trace.png" alt="Steady-state time-domain field" width="420">
+  <img src="Time_To_Freq_01.png" alt="Steady-state time-domain field" width="420">
 </p>
 
 **Figure:** Steady-state electric field at a measurement point used for time-to-frequency extraction.
-
-<p align="center">
-  <img src="fig_ttof_fft_mag_phase.png" alt="FFT magnitude and phase extraction" width="420">
-</p>
-
-**Figure:** FFT-based extraction of magnitude and phase at the excitation frequency.
 
 ---
 
@@ -69,18 +57,6 @@ The finite element method was developed using a one-dimensional electrostatic fo
 
 Element matrices were assembled into a global sparse system, boundary conditions were applied, and the resulting piecewise-linear solution was interpreted as an approximation to the continuous field.
 
-<p align="center">
-  <img src="fig_fem_shape_functions.png" alt="FEM shape functions" width="420">
-</p>
-
-**Figure:** Linear FEM shape functions illustrating nodal interpolation and partition of unity.
-
-<p align="center">
-  <img src="fig_fem_piecewise_solution.png" alt="FEM piecewise solution" width="420">
-</p>
-
-**Figure:** FEM solution of a 1D Laplace problem using linear elements and Dirichlet boundary conditions.
-
 ---
 
 ## Method of Moments (MoM)
@@ -88,19 +64,8 @@ The Method of Moments was implemented by reformulating electrostatic problems as
 
 Numerical quadrature was used to evaluate matrix elements, and the solved charge distribution was used to compute electric potential and electric field quantities, including far-field behavior.
 
-<p align="center">
-  <img src="fig_mom_triangular_basis.png" alt="MoM triangular basis functions" width="420">
-</p>
-
-**Figure:** Triangular basis functions used in the MoM formulation to approximate charge density along a conductor.
-
-<p align="center">
-  <img src="fig_mom_charge_distribution.png" alt="MoM charge distribution" width="420">
-</p>
-
-**Figure:** Charge distribution along a conducting wire obtained using the Method of Moments.
-
 ---
 
 ## Summary
 Across all methods, the emphasis was on understanding numerical electromagnetics at the formulation level: discretization of governing equations, matrix assembly, solver behavior, boundary-condition enforcement, and extraction of physically meaningful quantities. Collectively, this work demonstrates a strong foundation in computational EM methods relevant to RF, microwave, antenna, and applied electromagnetics engineering.
+
