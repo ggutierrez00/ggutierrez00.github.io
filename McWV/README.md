@@ -57,7 +57,7 @@ Following EM simulation, the design was optimized and fabricated. Measured resul
 **Figure:** Physical microstrip layout of the Wilkinson power divider used for fabrication and EM simulation.
 
 <p align="center">
-  <img src="Wilk_m_om_substrate.png" alt="Wilkinson divider substrate stackup" width="360">
+  <img src="Wilk_mom_substrate.png" alt="Wilkinson divider substrate stackup" width="360">
 </p>
 
 **Figure:** Substrate stackup used for the MoM simulation, including conductor thickness and FR4 dielectric properties.
@@ -85,3 +85,4 @@ Discrepancies between simulation and measurement were investigated and attribute
 
 ## Summary
 This work demonstrates end-to-end microwave engineering capability, spanning analytical design, EM simulation, physical layout, fabrication, and experimental validation. The emphasis on comparing analytical models, full-wave simulations, and measured results reflects practical RF engineering workflows and real-world constraints.
+
