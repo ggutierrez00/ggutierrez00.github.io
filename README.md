@@ -93,7 +93,15 @@ Based on these findings, I developed a revised standard operating procedure (SOP
 
 * [Antenna Theory and Design](Antenna/)
 
-* [Digital Signal Processing](Dig-sig-proc/)
+* Digital Signal Processing:
+  - Analyzed continuous-time and discrete-time signals in both time and frequency domains, including periodicity, aliasing, and sampling constraints.
+  - Applied Fourier series, Fourier transform, and DFT/FFT concepts to characterize signal spectra and system behavior.
+  - Performed discrete convolution and correlation (linear and circular) and interpreted results in both time and frequency domains.
+  - Worked extensively with sampling theory, folding frequency, Nyquist criteria, and quantization effects.
+  - Derived and manipulated DSP expressions analytically, validating results numerically using MATLAB.
+  - Used symmetry, complex exponentials, and transform properties to simplify spectral analysis.
+  - Built intuition for how mathematical DSP concepts translate to practical signal processing systems.
+
 
 * Nanoelectronics:
   - Studied MOSFET operation and carrier transport mechanisms  
