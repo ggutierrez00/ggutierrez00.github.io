@@ -48,7 +48,7 @@ Field-based computation of the reflection coefficient was compared against the e
   <img src="Time_To_Freq_01.png" alt="Steady-state time-domain field" width="420">
 </p>
 
-**Figure:** Steady-state electric field at a measurement point used for time-to-frequency extraction.
+**Figure:** Steady-state electric field at a measurement point used for time-to-frequency extraction was sampled close to the end of this distribution.
 
 ---
 
@@ -68,4 +68,5 @@ Numerical quadrature was used to evaluate matrix elements, and the solved charge
 
 ## Summary
 Across all methods, the emphasis was on understanding numerical electromagnetics at the formulation level: discretization of governing equations, matrix assembly, solver behavior, boundary-condition enforcement, and extraction of physically meaningful quantities. Collectively, this work demonstrates a strong foundation in computational EM methods relevant to RF, microwave, antenna, and applied electromagnetics engineering.
+
 
