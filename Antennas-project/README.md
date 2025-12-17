@@ -17,7 +17,6 @@ The antenna was designed as a single microstrip patch with an inset feed, modele
 </p>
 
 **Figure:** CST model of the microstrip patch antenna and feed structure.  
-(From project design screenshots :contentReference[oaicite:1]{index=1})
 
 ---
 
@@ -29,7 +28,6 @@ The antenna was designed to resonate at 5 GHz, and the simulated S₁₁ respons
 </p>
 
 **Figure:** Simulated S₁₁ versus frequency showing resonance near 5 GHz.  
-(From project report S₁₁ analysis :contentReference[oaicite:2]{index=2})
 
 Although matching performance was reasonable, changes to inset depth and patch dimensions had limited impact on improving radiation behavior, indicating that impedance matching alone was not the dominant issue.
 
@@ -47,7 +45,6 @@ Far-field radiation patterns were examined for multiple φ cuts to assess antenn
 </p>
 
 **Figure:** Far-field directivity patterns for φ = 0° and φ = 90° cuts, comparing simulation and measured results.  
-(From radiation pattern comparison section :contentReference[oaicite:3]{index=3})
 
 The presence of a large sidelobe significantly degraded pattern quality and made interpretation of measured data difficult. This behavior was consistent across multiple geometry variations, suggesting a deeper structural or feeding issue.
 
@@ -77,7 +74,6 @@ As an exploratory extension, the single-patch design was expanded into a two-ele
 </p>
 
 **Figure:** Two-element microstrip patch array geometry and resulting 3D radiation pattern.  
-(From project extension and array visualization :contentReference[oaicite:4]{index=4})
 
 The array configuration produced a more structured, directional radiation pattern, validating both the array theory discussed in coursework and the conclusions drawn from literature review. Most practical 5 GHz patch antennas are implemented using 4–6 element arrays for this reason.
 
@@ -103,6 +99,7 @@ The experience provided a realistic view of antenna design beyond idealized text
 - Diagnosis of sidelobe and pattern distortion issues  
 - Application of array theory to improve antenna performance  
 - Engineering judgment under non-ideal and error-prone conditions
+
 
 
 
