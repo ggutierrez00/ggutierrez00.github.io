@@ -67,7 +67,15 @@ GPA: 3.96
 
 [DSP integration for RV32E MCU using tsmc18 (signed NDA) technology libraries](VLSI-project/) (ModelSim/Questa, Virtuoso/Calibre, Genus)
 
-[Carbon Evaporation System from Undergraduate Research](Undergraduate-research)
+---
+
+## Undergraduate Research — Experimental System Troubleshooting
+
+This work involved diagnosing and correcting persistent failures in the university carbon deposition system used for thin-film preparation. Existing documentation assumed the chamber was filled with an inert gas. The university didn't have this option, leading to unreliable operation and repeated hardware failures (mostly of carbon targets).
+
+Through experimental investigation, I identified the critical role of carbon tip contact area, sharpening geometry, and operating current in achieving stable deposition. I determined that successful operation required higher current levels than specified in the original manual. Additionally, I found that the carbon targets used for the deposition could be sharpened and reused (saving on material costs). However, over-sharpening the graphite tip degraded electrical contact more rapidly.
+
+Based on these findings, I developed a revised standard operating procedure (SOP) that restored reliable system operation and enabled reproducible use by subsequent students. This work demonstrates experimental troubleshooting, system diagnosis under incomplete documentation, and disciplined lab practice.
 
 ---
 
