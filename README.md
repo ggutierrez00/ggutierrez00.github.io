@@ -11,7 +11,7 @@ Phone: (385)492-9704 | Email: giovanniagut@gmail.com | LinkedIn:[My Profile](htt
 ---
 
 # Purpose
-I've written this e-portfolio to showcase my academic background, technical skills, and projects I've worked on in preperation for engineering roles. This living document thus acts as a reference point reflecting my current software, hardware, and conceptual level of expertise.
+I've written this e-portfolio to showcase my academic background, technical skills, and projects I've worked on in preparation for engineering roles. This living document thus acts as a reference point reflecting my current software, hardware, and conceptual level of expertise.
 
 ---
 
