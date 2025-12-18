@@ -14,43 +14,6 @@ Phone: (385)492-9704 | Email: giovanniagut@gmail.com | LinkedIn:[My Profile](htt
 I've written this e-portfolio to showcase my academic background, technical skills, and projects I've worked on in preperation for engineering roles. This living document thus acts as a reference point reflecting my current software, hardware, and conceptual level of expertise.
 
 ---
-# Technical Skills
-
-**Electromagnetics & RF**
-- Transmission line theory, impedance matching, Smith charts  
-- S-parameters, microwave network analysis  
-- Antennas, waveguides, microstrip structures  
-- Numerical EM methods (FDTD, FDFD, FEM, MoM)
-
-**Signal Processing**
-- Time- and frequency-domain analysis  
-- Sampling theory, FFT/DFT  
-- Discrete convolution and correlation  
-- Filter analysis and design
-
-**Circuit & Hardware**
-- Analog and RF circuit analysis  
-- MOSFET and BJT operation  
-- Power and signal-conditioning circuits  
-- Microcontrollers and sensor interfacing
-
-**Simulation & Design Tools**
-- MATLAB  
-- Keysight ADS (schematic, layout, EM simulation)  
-- CST (antenna and EM simulation)  
-- SPICE-based circuit simulation
-
-**Programming**
-- MATLAB  
-- C (basic: control flow, arrays; introductory embedded use)  
-- Verilog (RTL-level design)
-
-**Measurement & Lab**
-- Vector network analyzer (VNA) calibration and measurement  
-- S-parameter interpretation  
-- Experimental troubleshooting and documentation
-
----
 
 # Education
 
@@ -91,6 +54,43 @@ GPA: 3.96
 * Programmed microcontrollers in C to read sensor data and display real-time measurements on a digital screen, linking physical instrumentation with embedded systems.
 
 [Transcript From Undergraduate Institution](BStranscript.pdf)
+
+---
+# Technical Skills
+
+**Electromagnetics & RF**
+- Transmission line theory, impedance matching, Smith charts  
+- S-parameters, microwave network analysis  
+- Antennas, waveguides, microstrip structures  
+- Numerical EM methods (FDTD, FDFD, FEM, MoM)
+
+**Signal Processing**
+- Time- and frequency-domain analysis  
+- Sampling theory, FFT/DFT  
+- Discrete convolution and correlation  
+- Filter analysis and design
+
+**Circuit & Hardware**
+- Analog and RF circuit analysis  
+- MOSFET and BJT operation  
+- Power and signal-conditioning circuits  
+- Microcontrollers and sensor interfacing
+
+**Simulation & Design Tools**
+- MATLAB  
+- Keysight ADS (schematic, layout, EM simulation)  
+- CST (antenna and EM simulation)  
+- SPICE-based circuit simulation
+
+**Programming**
+- MATLAB  
+- C (basic: control flow, arrays; introductory embedded use)  
+- Verilog (RTL-level design)
+
+**Measurement & Lab**
+- Vector network analyzer (VNA) calibration and measurement  
+- S-parameter interpretation  
+- Experimental troubleshooting and documentation
 
 ---
 
