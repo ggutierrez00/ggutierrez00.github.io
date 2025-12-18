@@ -42,7 +42,7 @@ I've written this e-portfolio to showcase my academic background, technical skil
 
 **Programming**
 - MATLAB  
-- C (embedded / microcontrollers)  
+- C (basic: control flow, arrays; introductory embedded use)  
 - Verilog (RTL-level design)
 
 **Measurement & Lab**
