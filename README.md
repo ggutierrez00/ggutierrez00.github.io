@@ -18,7 +18,7 @@ I've written this e-portfolio to showcase my academic background, technical skil
 # Education
 
 
-### Master of Science in Electrical Engineering - University of Utah
+### [Master of Science](Diploma_Masters.pdf) in Electrical Engineering - University of Utah
 
 Graduated: December 2025<br>
 Location: Salt Lake City, UT<br>
